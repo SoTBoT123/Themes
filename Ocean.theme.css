@@ -41,7 +41,7 @@
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
   --watermark-filter-hue-rotate: 150deg;
-  --watermark-filter-brightness: 100%;
-  --watermark-filter-contrast: 200%;
+  --watermark-filter-brightness: 50%;
+  --watermark-filter-contrast: 100%;
   --ocean-emoji-picker-color: 150deg;
 }
